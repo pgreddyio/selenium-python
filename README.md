@@ -1,1 +1,6 @@
-# selenium-python
+## Datatypes in python
+
+```
+List , Tupple , Dictionary 
+```
+
